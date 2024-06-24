@@ -1,0 +1,4 @@
+Rua Cidade Cod
+Rua A;Curitiba;1
+Rua B;São Paulo;1
+Rua C;Blumenau;3
